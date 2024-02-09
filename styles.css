@@ -1,0 +1,60 @@
+.container{
+
+text-align: center;
+
+margin-top: 25px;
+
+background-color: greenyellow;
+
+width: fit-content;
+
+height: fit-content;
+}
+
+table{
+
+margin:auto;
+
+}
+
+input {
+
+font-size: 30px;
+
+width: 220px;
+
+border: 2px solid;
+
+border-radius: 9px;
+
+border-color: rgb(48,5,202);
+
+}
+
+button {
+
+font: 35px;
+
+background-color: rgb(190,115,72);
+
+border:none;
+
+width: 55px;
+
+height: 50px;
+
+border-radius: 15px;
+
+}
+
+.calculator{
+
+display: inline-block;
+
+border-color: rgb(114,218,128); background-color: rgb(48,5,202);
+
+width: 500px;
+
+height: 500px;
+
+}
